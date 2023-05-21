@@ -1,10 +1,2 @@
-#include<stdio.h>
-int main() {
-    print("Hello World !);
-    return 0;
-}
-
-
-
- 
-
+Web developer, with extensive knowledge and experience in DSA,
+       working well in teams, delivering quality work.
