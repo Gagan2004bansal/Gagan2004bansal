@@ -2,7 +2,7 @@ Web developer, with extensive knowledge and experience in DSA,
        working well in teams, delivering quality work.
 <h1 align="center">Hi 👋, I'm Gagan Bansal</h1>
 <h3 align="center">A passionate Software and Frontend enthusiast from India</h3>
-
+<a href="https://leetcode.com/u/Gagan_Bansal/">Leetcode</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
