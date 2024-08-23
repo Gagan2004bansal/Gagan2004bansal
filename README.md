@@ -1,7 +1,7 @@
 <!-- Dark-themed GitHub Profile README -->
 
 <p align="center">
-  <img src="https://github.com/Gagan2004bansal/Gagan2004bansal/myPhoto.png" alt="Profile Banner" />
+  <img src="https://github.com/Gagan2004bansal/Gagan2004bansal/blob/main/myPhoto.jpeg" alt="Profile Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Gagan Bansal</h1>
