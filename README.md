@@ -10,7 +10,7 @@
   <a href="https://leetcode.com/u/Gagan_Bansal/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/gagan-bansal-12345/">
+  <a href="https://www.linkedin.com/in/bansalgagan2004/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
@@ -85,8 +85,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaganBansal8&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaganBansal8&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gagan2004Bansal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan2004Bansal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
