@@ -1,9 +1,5 @@
 <!-- Dark-themed GitHub Profile README -->
 
-<p align="center">
-  <img src="https://github.com/Gagan2004bansal/Gagan2004bansal/blob/main/myPhoto.jpeg" alt="Profile Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Gagan Bansal</h1>
 <h3 align="center">A passionate Software Engineer enthusiast from India</h3>
 
