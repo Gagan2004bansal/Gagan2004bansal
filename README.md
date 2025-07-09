@@ -21,9 +21,8 @@
 
 - 🎓 Self-driven, dedicated, and innovative university student pursuing a **Bachelor of Engineering in Computer Science** from **Chitkara University**, Chandigarh.
 - 🤝 A forward-thinking individual who thrives in environments emphasizing teamwork and learning by doing.
-- 💻 Skilled in **C/C++**, **MERN stack**, **UI Design**, and **Data Structures and Algorithms**.
+- 💻 Skilled in **C/C++**, **RUST**, **MERN stack** and **Data Structures and Algorithms**.
 - 🌐 Keen interest in **web development** and solving complex problems.
-- 🎯 With strong solution-seeking and communication skills, I actively contribute to **event management**, **marketing**, and **content creation** with enthusiasm and a solid work ethic.
 
 ---
 
