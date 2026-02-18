@@ -19,10 +19,10 @@
 
 ### 🌌 About Me
 
-- 🎓 Self-driven, dedicated, and innovative university student pursuing a **Bachelor of Engineering in Computer Science** from **Chitkara University**, Chandigarh.
-- 🤝 A forward-thinking individual who thrives in environments emphasizing teamwork and learning by doing.
-- 💻 Skilled in **C/C++**, **RUST**, **MERN stack** and **Data Structures and Algorithms**.
-- 🌐 Keen interest in **web development** and solving complex problems.
+- A Final-Year CS Student persuing **Bachelor of Engineering in Computer Science** from **Chitkara University**, Chandigarh.
+- A forward-thinking individual who thrives in environments emphasizing teamwork and learning by doing.
+- Skilled in **C/C++**, **RUST**, **MERN stack** and **Data Structures and Algorithms**.
+- Keen interest in **backend development and system programming** and solving complex problems.
 
 ---
 
@@ -82,15 +82,6 @@
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagan2004Bansal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan2004Bansal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
