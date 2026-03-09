@@ -1,12 +1,9 @@
 <!-- Dark-themed GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Gagan Bansal</h1>
+<h1 align="center">Hi, I'm Gagan Bansal</h1>
 <h3 align="center">A passionate Software Engineer enthusiast from India</h3>
 
 <p align="center">
-  <a href="https://github.com/Gagan2004bansal?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
   <a href="https://leetcode.com/u/Gagan_Bansal/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
@@ -17,7 +14,7 @@
 
 ---
 
-### 🌌 About Me
+### About Me
 
 - A Final-Year CS Student persuing **Bachelor of Engineering in Computer Science** from **Chitkara University**, Chandigarh.
 - A forward-thinking individual who thrives in environments emphasizing teamwork and learning by doing.
