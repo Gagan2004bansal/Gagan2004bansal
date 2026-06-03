@@ -2,7 +2,7 @@
 
 **Software Engineer | Problem Solver | Backend Enthusiast**
 
-A CS student from **Chitkara University**, Chandigarh, with a strong foundation in **system programming**, **backend development**, and **competitive programming**. I thrive in collaborative environments and love solving complex problems with elegant code.
+A Fresh Graduate(2026) from **Chitkara University**, Chandigarh, with a strong foundation in **Backend Development**, **Gen AI**, and **competitive programming**. I thrive in collaborative environments and love solving complex problems with elegant code.
 
 ---
 
@@ -18,8 +18,8 @@ A CS student from **Chitkara University**, Chandigarh, with a strong foundation 
 
 ##  About Me
 
--  **Final-Year B.E. Computer Science Student** at Chitkara University, Chandigarh
--  Passionate about **backend development** and **system programming**
+-  **A Fresh Graduate(2026) Computer Science Student** from Chitkara University, Chandigarh
+-  Passionate about **backend development** and **Gen AI**
 -  Strong problem-solving skills with expertise in **Data Structures & Algorithms**
 -  Exploring advanced concepts in **distributed systems** and **low-level programming**
 
@@ -33,8 +33,18 @@ A CS student from **Chitkara University**, Chandigarh, with a strong foundation 
 ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Gen AI & AI Stack
+![LLMs](https://img.shields.io/badge/LLMs-Large--Language--Models-purple?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector%20DB-Embeddings-green?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-003366?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0A192F?style=flat-square&logo=pinecone&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=flat-square)
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -49,7 +59,6 @@ A CS student from **Chitkara University**, Chandigarh, with a strong foundation 
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ### Tools & Design
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
