@@ -30,41 +30,45 @@ A Fresh Graduate(2026) from **Chitkara University**, Chandigarh, with a strong f
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### Gen AI & AI Stack
-![LLMs](https://img.shields.io/badge/LLMs-Large--Language--Models-purple?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-Embeddings-green?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-003366?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0A192F?style=flat-square&logo=pinecone&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=flat-square)
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### Tools & Design
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
+
+### Gen AI & AI Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-Large--Language--Models-purple?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-003366?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0050FF?style=flat-square&logo=pinecone&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blue?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6E56CF?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+### Web & Backend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+---
+
+### Databases
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 
 ##  Competitive Programming Stats
 
@@ -75,18 +79,6 @@ A Fresh Graduate(2026) from **Chitkara University**, Chandigarh, with a strong f
 **Active on multiple coding platforms** | **Data Structures & Algorithms Specialist**
 
 </div>
-
----
-
-##  Core Competencies
-
-| Category | Skills |
-|----------|--------|
-| **Programming** | Data Structures, Algorithms, System Design, Object-Oriented Programming |
-| **Backend** | Node.js, Express.js, RESTful APIs, Database Design |
-| **Frontend** | React, Responsive Design, UI/UX Implementation |
-| **Databases** | SQL (MySQL, Oracle, SQL Server), NoSQL (MongoDB) |
-| **Problem Solving** | Competitive Programming, LeetCode, GeeksforGeeks |
 
 ---
 
