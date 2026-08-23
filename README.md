@@ -1,6 +1,6 @@
 # Hi there, I'm Gagan Bansal 
 
-**Software Engineer | Problem Solver | Backend Enthusiast**
+**Software Engineer | Backend & Distributed Systems | Generative AI**
 
 A Fresh Graduate(2026) from **Chitkara University**, Chandigarh, with a strong foundation in **Backend Development**, **Gen AI**, and **competitive programming**. I thrive in collaborative environments and love solving complex problems with elegant code.
 
@@ -15,13 +15,10 @@ A Fresh Graduate(2026) from **Chitkara University**, Chandigarh, with a strong f
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bansalgagan2004@gmail.com)
 
 ---
+## About Me
 
-##  About Me
+I’m a Computer Science graduate who enjoys understanding how things work beneath the surface and turning that understanding into software that actually solves problems. My primary focus is backend engineering, distributed systems, and Generative AI, where I enjoy designing APIs, working with databases and event-driven systems, building concurrent services, and developing AI systems that go beyond simple model calls. I care about the engineering behind the code — how systems communicate, how data moves, how failures are handled, and how an application behaves as complexity and scale increase. I spend a significant amount of time solving Data Structures and Algorithms problems because I genuinely enjoy breaking difficult problems down into simpler ones. These days, I’m going deeper into Go, Kafka, system design, and production-grade AI architectures, while continuously building and experimenting with projects that push me beyond tutorials and into real engineering. For me, writing code is not just about making something work — it’s about understanding why it works, knowing where it can break, and finding a better way to build it.
 
--  **A Fresh Graduate(2026) Computer Science Student** from Chitkara University, Chandigarh
--  Passionate about **backend development** and **Gen AI**
--  Strong problem-solving skills with expertise in **Data Structures & Algorithms**
--  Exploring advanced concepts in **distributed systems** and **low-level programming**
 
 
 ---
