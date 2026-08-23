@@ -79,6 +79,19 @@ I’m a Computer Science graduate who enjoys understanding how things work benea
 
 ---
 
+### GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gagan2004bansal&show_icons=true&theme=tokyonight&count_private=false)](https://github.com/Gagan2004bansal)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan2004bansal&theme=tokyonight&layout=compact)](https://github.com/Gagan2004bansal)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gagan2004bansal&theme=dark)](https://github.com/Gagan2004bansal)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Gagan2004bansal&theme=dark&row=1&column=6)](https://github.com/Gagan2004bansal)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gagan2004bansal&theme=dark&hide_border=true)
+
 ## Let's Connect!
 
 I'm always open to collaborating on interesting projects, discussing tech, or exploring opportunities. Feel free to reach out!
